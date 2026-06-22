@@ -4,7 +4,7 @@
 include('db.php');  // Incluye el archivo de conexión
 
 $USUARIO=$_POST['usuario'];
-$PASSWORD=$_POST['password'];
+$PASSWORD=$_POST['oculto por seguridad'];
 
 $consulta = "SELECT * FROM Personal where usuario = '$USUARIO' and password = '$PASSWORD' ";
 $resultado = mysqli_query($conexion, $consulta);
