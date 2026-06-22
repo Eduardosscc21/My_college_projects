@@ -8,7 +8,7 @@ import mysql.connector
 conexion = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Yesterday1!",
+    password="oculto por seguridad",
     database="amazondb"
 )
 
