@@ -1,4 +1,4 @@
-# 🍬 Sistema de Gestión de Dulcería
+# 🍬 Sistema de gestión de dulcería
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.x-green)
@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Tabla de Contenidos
+## 📋 Tabla de contenidos
 - [Descripción](#-descripción)
 - [Características](#-características)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
@@ -24,7 +24,7 @@
 
 Este proyecto fue desarrollado como trabajo final para la materia de administración de bases de datos. El sistema permite gestionar de manera integral una dulcería, ofreciendo funcionalidades para:
 
-### 🎯 Objetivos del Sistema
+### 🎯 Objetivos del sistema
 - Control de inventario de productos con registro de cantidades y fechas de caducidad
 - Gestión de proveedores para mantener un catálogo actualizado
 - Registro de ventas con actualización automática del stock
@@ -32,7 +32,7 @@ Este proyecto fue desarrollado como trabajo final para la materia de administrac
 - Alertas inteligentes de productos por agotarse (stock ≤ 2 unidades)
 - Interfaz intuitiva con menús modulares para cada funcionalidad
 
-### 🎓 Contexto Académico
+### 🎓 Contexto académico
 - Materia: Administración de Bases de Datos
 - Temas aplicados: 
   - Diseño de bases de datos relacionales
@@ -59,7 +59,7 @@ Este proyecto fue desarrollado como trabajo final para la materia de administrac
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías utilizadas
 
 | Tecnología | Versión | Propósito |
 |------------|---------|-----------|
@@ -73,11 +73,11 @@ Este proyecto fue desarrollado como trabajo final para la materia de administrac
 
 ---
 
-## ⚙️ Requisitos Previos
+## ⚙️ Requisitos previos
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
-### Software Necesario
+### Software necesario
 1. **Python 3.x** - [Descargar aquí](https://www.python.org/downloads/)
 2. **MySQL Server** - [Descargar aquí](https://dev.mysql.com/downloads/mysql/)
 3. **MySQL Workbench** (opcional) - Para administración visual de la BD
