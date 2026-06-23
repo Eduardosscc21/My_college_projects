@@ -22,19 +22,19 @@
 
 ## 📖 Descripción
 
-Este proyecto fue desarrollado como **trabajo final** para la materia de **Administración de Bases de Datos**. El sistema permite gestionar de manera integral una dulcería, ofreciendo funcionalidades para:
+Este proyecto fue desarrollado como trabajo final para la materia de administración de bases de datos. El sistema permite gestionar de manera integral una dulcería, ofreciendo funcionalidades para:
 
 ### 🎯 Objetivos del Sistema
-- **Control de inventario** de productos con registro de cantidades y fechas de caducidad
-- **Gestión de proveedores** para mantener un catálogo actualizado
-- **Registro de ventas** con actualización automática del stock
-- **Análisis de datos** mediante gráficos de productos más y menos vendidos
-- **Alertas inteligentes** de productos por agotarse (stock ≤ 2 unidades)
-- **Interfaz intuitiva** con menús modulares para cada funcionalidad
+- Control de inventario de productos con registro de cantidades y fechas de caducidad
+- Gestión de proveedores para mantener un catálogo actualizado
+- Registro de ventas con actualización automática del stock
+- Análisis de datos mediante gráficos de productos más y menos vendidos
+- Alertas inteligentes de productos por agotarse (stock ≤ 2 unidades)
+- Interfaz intuitiva con menús modulares para cada funcionalidad
 
 ### 🎓 Contexto Académico
-- **Materia**: Administración de Bases de Datos
-- **Temas aplicados**: 
+- Materia: Administración de Bases de Datos
+- Temas aplicados: 
   - Diseño de bases de datos relacionales
   - Consultas SQL (SELECT, INSERT, UPDATE, DELETE)
   - Llaves primarias y foráneas
@@ -48,14 +48,14 @@ Este proyecto fue desarrollado como **trabajo final** para la materia de **Admin
 
 | Módulo | Funcionalidad | Descripción |
 |--------|---------------|-------------|
-| 🔐 **Login** | Autenticación | Sistema de acceso con usuario y contraseña |
-| 📦 **Almacén** | CRUD Completo | Agregar, editar, eliminar y consultar productos |
-| 🛒 **Ventas** | Carrito de Compras | Sistema de carrito con múltiples productos |
-| 📊 **Reportes** | Estadísticas | Gráficos de productos más/menos vendidos |
-| ⚠️ **Alertas** | Stock Bajo | Identificación de productos con inventario crítico |
-| 🏢 **Proveedores** | Gestión | CRUD completo de proveedores |
-| 📈 **Ventas por Mes** | Filtrado | Visualización de ventas por mes específico |
-| 🔄 **Actualización Automática** | Inventario | Actualización de stock al realizar ventas |
+| 🔐 Login | Autenticación | Sistema de acceso con usuario y contraseña |
+| 📦 Almacén | CRUD Completo | Agregar, editar, eliminar y consultar productos |
+| 🛒 Ventas | Carrito de Compras | Sistema de carrito con múltiples productos |
+| 📊 Reportes | Estadísticas | Gráficos de productos más/menos vendidos |
+| ⚠️ Alertas | Stock Bajo | Identificación de productos con inventario crítico |
+| 🏢 Proveedores | Gestión | CRUD completo de proveedores |
+| 📈 Ventas por Mes | Filtrado | Visualización de ventas por mes específico |
+| 🔄 Actualización Automática | Inventario | Actualización de stock al realizar ventas |
 
 ---
 
