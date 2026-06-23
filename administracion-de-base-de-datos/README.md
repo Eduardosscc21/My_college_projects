@@ -25,12 +25,12 @@
 Este proyecto fue desarrollado como **trabajo final** para la materia de **Administración de Bases de Datos**. El sistema permite gestionar de manera integral una dulcería, ofreciendo funcionalidades para:
 
 ### 🎯 Objetivos del Sistema
-- ✅ **Control de inventario** de productos con registro de cantidades y fechas de caducidad
-- ✅ **Gestión de proveedores** para mantener un catálogo actualizado
-- ✅ **Registro de ventas** con actualización automática del stock
-- ✅ **Análisis de datos** mediante gráficos de productos más y menos vendidos
-- ✅ **Alertas inteligentes** de productos por agotarse (stock ≤ 2 unidades)
-- ✅ **Interfaz intuitiva** con menús modulares para cada funcionalidad
+- **Control de inventario** de productos con registro de cantidades y fechas de caducidad
+- **Gestión de proveedores** para mantener un catálogo actualizado
+- **Registro de ventas** con actualización automática del stock
+- **Análisis de datos** mediante gráficos de productos más y menos vendidos
+- **Alertas inteligentes** de productos por agotarse (stock ≤ 2 unidades)
+- **Interfaz intuitiva** con menús modulares para cada funcionalidad
 
 ### 🎓 Contexto Académico
 - **Materia**: Administración de Bases de Datos
