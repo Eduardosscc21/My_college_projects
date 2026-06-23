@@ -14,8 +14,8 @@
 ## 📋 Tabla de contenidos
 - [Descripción](#-descripción)
 - [Características](#-características)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Requisitos Previos](#-requisitos-previos)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Requisitos previos](#-requisitos-previos)
 
 
 ---
@@ -33,7 +33,7 @@ Este proyecto fue desarrollado como trabajo final para la materia de administrac
 - Interfaz intuitiva con menús modulares para cada funcionalidad
 
 ### 🎓 Contexto académico
-- Materia: Administración de Bases de Datos
+- Materia: Administración de bases de datos
 - Temas aplicados: 
   - Diseño de bases de datos relacionales
   - Consultas SQL (SELECT, INSERT, UPDATE, DELETE)
