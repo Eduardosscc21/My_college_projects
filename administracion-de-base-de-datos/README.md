@@ -89,3 +89,4 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 pip install mysql-connector-python==8.0.33
 pip install Pillow==9.5.0
 pip install matplotlib==3.7.1
+
