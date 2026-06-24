@@ -1,4 +1,4 @@
-# Proyecto Final de Minería de Datos
+# Proyecto final de minería de datos
 
 ![Orange Data Mining](https://img.shields.io/badge/Orange-Data%20Mining-orange)
 ![Data Analysis](https://img.shields.io/badge/Análisis-de%20Datos-blue)
