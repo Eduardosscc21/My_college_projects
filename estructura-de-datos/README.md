@@ -20,15 +20,15 @@
 
 ## 📖 Descripción
 
-Este proyecto fue desarrollado para la materia de **Estructura de Datos**. El sistema implementa **seis técnicas diferentes de organización y acceso a archivos** para gestionar información académica de la Universidad de Guadalajara (UDG), incluyendo tesis, artículos, alumnos, profesores e historiales de consultas.
+Este proyecto fue desarrollado para la materia de Estructura de datos. El sistema implementa **seis técnicas diferentes de organización y acceso a archivos** para gestionar información académica de la Universidad de Guadalajara (UDG), incluyendo tesis, artículos, alumnos, profesores e historiales de consultas.
 
 ### 🎯 Objetivos del Sistema
 
-- ✅ Implementar **6 técnicas de organización de archivos**: Delimitadores, Campos de Dimensión, Acceso Directo, Índice Simple, Serialización y Dispersión
-- ✅ Gestionar información académica de la UDG
-- ✅ Proporcionar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para cada técnica
-- ✅ Comparar el rendimiento y características de cada método de organización
-- ✅ Demostrar conceptos fundamentales de estructura de datos en archivos
+- Implementar 6 técnicas de organización de archivos: Delimitadores, campos de dimensión, acceso directo, indice simple, serialización y dispersión
+- Gestionar información académica de la UDG
+- Proporcionar operaciones CRUD (crear, leer, actualizar, eliminar) para cada técnica
+- Comparar el rendimiento y características de cada método de organización
+- Demostrar conceptos fundamentales de estructura de datos en archivos
 
 ### 🎓 Contexto Académico
 
@@ -63,17 +63,17 @@ Este proyecto fue desarrollado para la materia de **Estructura de Datos**. El si
 - **Ventajas**: Fácil de implementar, legible por humanos
 - **Desventajas**: Lectura carácter por carácter, menos eficiente
 
-### 2. Campos de Dimensión (Campos_de_dimension.hpp)
+### 2. Campos de dimensión (Campos_de_dimension.hpp)
 - **Descripción**: Cada campo almacena su longitud seguida del contenido
 - **Ventajas**: Campos de longitud variable, eficiente en espacio
 - **Desventajas**: Mayor complejidad de implementación
 
-### 3. Acceso Directo (Acceso_directo.hpp)
+### 3. Acceso directo (Acceso_directo.hpp)
 - **Descripción**: Registros de longitud fija, acceso directo por posición
 - **Ventajas**: Rápido acceso aleatorio, simple de implementar
 - **Desventajas**: Desperdicio de espacio si los campos son cortos
 
-### 4. Índice Simple (Indice_simple.hpp)
+### 4. Índice simple (Indice_simple.hpp)
 - **Descripción**: Archivo de datos + Archivo de índices (llave + posición)
 - **Ventajas**: Búsqueda rápida, soporta ordenamiento
 - **Desventajas**: Mantenimiento adicional del índice
