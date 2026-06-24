@@ -1,4 +1,4 @@
-# 📚 Sistema de Gestión de Tesis y Artículos - Estructura de Datos
+# 📚 Sistema de gestión de tesis y artículos - Estructura de Datos
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![C++](https://img.shields.io/badge/c++-11-green)
