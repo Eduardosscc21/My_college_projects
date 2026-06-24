@@ -15,7 +15,7 @@
 - [Características](#-características)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Requisitos Previos](#-requisitos-previos)
-- [Arquitectura del Sistema](#-arquitectura-del-sistema)
+- [Archivos del proyecto](#-archivos-del-proyecto)
 
 
 ## 📖 Descripción
